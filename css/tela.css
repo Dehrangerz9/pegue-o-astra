@@ -1,0 +1,28 @@
+.tela {
+    width: 90%;
+    height: 50rem;
+    margin: auto;
+    display: flex
+}
+
+.tela__jogo {
+    background-image: url("../assets/rodovia-bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    flex: 90%;
+    width: 50rem;
+    height: auto;
+    border: 1px solid black;
+}
+
+#astra {
+    position: relative;
+    margin: 0;
+    top: 75%;
+    left: 75%;
+    background-image: url("../assets/astra.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 100px;
+    width: 150px;
+}

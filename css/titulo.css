@@ -1,0 +1,4 @@
+.titulo > h1 {
+    font-family: var(--press-start);
+    text-align: center;
+}

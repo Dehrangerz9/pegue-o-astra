@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+:root {
+    --press-start: 'Press Start 2P', sans-serif;
+}
+
+body {
+    background-color: #fcd98f;
+}
+
+.container {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
